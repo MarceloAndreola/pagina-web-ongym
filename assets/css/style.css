@@ -73,7 +73,6 @@ body{
 .act:hover{
     width: 30%;
     transition: 2s;
-
 }
 
 @media screen and (max-width: 900px) {
@@ -88,8 +87,8 @@ body{
     }
 
     .act:hover{
-        width: 75%;
-        transition: 1s;
+        width: 90%;
+        transition: none;
     }
     
 }
