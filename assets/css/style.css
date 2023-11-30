@@ -88,8 +88,8 @@ body{
     }
 
     .act:hover{
-        width: 75%;
-        transition: 1s;
+        width: 90%;
+        transition: none;
     }
     
 }
