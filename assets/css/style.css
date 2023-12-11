@@ -102,4 +102,19 @@ body{
 
 }
 
+@media screen and (max-width: 450px) {
+    .hero{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/img-pers.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 85vh;
+    
+    }
+
+}
+
+
+
 
